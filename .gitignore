@@ -38,16 +38,9 @@ ehthumbs.db
 [Dd]ebug/
 [Rr]elease/
 
-# ========== TextMeshPro ==========
-[Tt]extMesh Pro/
+# (중요) Assets/ / ProjectSettings/ / Packages/ 는 트래킹 유지
+# (중요) *.meta 는 절대 무시하지 말 것
+# [금지] [Tt]extMesh Pro/ 같은 디렉터리 무시 규칙 금지
 
-# ========== Unity Cloud & Collaborate ==========
-.UnityPackageManager/
-ProjectSettings/EditorBuildSettings.asset
-ProjectSettings/ProjectVersion.txt
-
-# ========== Auto-generated meta files ==========
-*.meta
-!Assets/**/*.meta
-!ProjectSettings/**/*.meta
-!Packages/**/*.meta
+# (선택) Git LFS 권장
+# git lfs track "*.fbx" "*.png" "*.jpg" "*.tga" "*.exr" "*.wav" "*.mp3" "*.mp4"
