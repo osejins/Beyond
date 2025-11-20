@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BeyondScene/ApoScene.unity
     guid: 993f9ac411b52c44d90e4ae41fdc673a
+  - enabled: 1
+    path: Assets/Scenes/BeyondScene/MRScene.unity
+    guid: f1aec1461da007e4c9dd443c09a993ae
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 437ffb8c6ba8680489c41768ce4bfa86,
       type: 2}
