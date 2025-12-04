@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BeyondScene/OPScene.unity
     guid: 7d3e3af9023efce4daaf3a27ec1cc4ba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BeyondScene/HQScene.unity
     guid: e093fb10a3c064948ba2f5ac4e5931f2
   - enabled: 1
@@ -29,7 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BeyondScene/ApoScene.unity
     guid: 8c4c99eacf5bacb43addbffb02fb2620
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BeyondScene/MRScene.unity
     guid: fc8cf684948f0654f9bb46acfbba709e
   m_configObjects:
