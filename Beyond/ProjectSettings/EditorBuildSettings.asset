@@ -28,8 +28,13 @@ EditorBuildSettings:
     guid: f413f874f3bebd540bfdf54c1de9f02d
   - enabled: 1
     path: Assets/Scenes/BeyondScene/ApoScene.unity
-    guid: 993f9ac411b52c44d90e4ae41fdc673a
+    guid: 8c4c99eacf5bacb43addbffb02fb2620
+  - enabled: 1
+    path: Assets/Scenes/BeyondScene/MRScene.unity
+    guid: fc8cf684948f0654f9bb46acfbba709e
   m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9da1b5a5c958166428797615b1916e5c,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 437ffb8c6ba8680489c41768ce4bfa86,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8624e5436a5a521489d1c069a63faf14,
