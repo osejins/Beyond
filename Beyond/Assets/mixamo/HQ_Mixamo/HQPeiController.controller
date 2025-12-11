@@ -6,7 +6,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PlayerController
+  m_Name: HQPeiController
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
@@ -32,8 +32,8 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: 5869628774613541258}
-    m_Position: {x: 210, y: 210, z: 0}
+    m_State: {fileID: 1482059045192646902}
+    m_Position: {x: 157.65063, y: 225.41763, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -43,15 +43,15 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 5869628774613541258}
---- !u!1102 &5869628774613541258
+  m_DefaultState: {fileID: 1482059045192646902}
+--- !u!1102 &1482059045192646902
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Sitting
+  m_Name: HQSitting
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -64,7 +64,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 1eac725c5d642fc41898f1cce0b332d3,
+  m_Motion: {fileID: -203655887218126122, guid: 205f535eafb92454ebf7e5bf1732a9b8,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
