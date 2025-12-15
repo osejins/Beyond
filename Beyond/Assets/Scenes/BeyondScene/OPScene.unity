@@ -394,7 +394,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nextSceneName: HQScene
-  waitTime: 61
+  waitTime: 67
 --- !u!4 &1055244879
 Transform:
   m_ObjectHideFlags: 0
