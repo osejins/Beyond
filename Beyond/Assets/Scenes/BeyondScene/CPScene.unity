@@ -553,7 +553,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nextSceneName: ApoScene
-  waitTime: 39
+  waitTime: 40
 --- !u!4 &332076311
 Transform:
   m_ObjectHideFlags: 0
